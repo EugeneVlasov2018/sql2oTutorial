@@ -1,4 +1,4 @@
-package vlasov.eugene.sql2oTutorial.pojo;
+package vlasov.eugene.sql2oTutorial.model;
 
 import lombok.Data;
 
